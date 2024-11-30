@@ -2,3 +2,5 @@ Test file
 Change
 Another change
 More changes
+Change 2
+
